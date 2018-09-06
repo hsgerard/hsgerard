@@ -18,19 +18,6 @@ Here's an example of an image, which is included using Markdown:
 
 
 
-<p>Again, no one as much as I feels the weight of this pain quite so heavily upon myself. Some text here.
-
-<a class="footnote">&Dagger;<span>Which, as you may remember, is certainly <i>not</i> my favorite.</span></a>
-
-Regardless of these rather unfortuante circumstaces, I remain fully aware and intact of my surrondings.
-
-<a class="footnote">&Dagger;<span>Well, within reason, I suppose.</span></a>
-
-
-</p>
-
-
-
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
 
 {% highlight js %}
